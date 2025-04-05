@@ -1,4 +1,4 @@
-# Rapid-Medical
+# Rapid Medical
 Custom WordPress Theme 
 
 <a href="https://rapidmedicalbd.com">www.rapidmedicalbd.com</a>
