@@ -1,5 +1,5 @@
 # Rapid Medical
-Custom WordPress Theme 
+Custom WordPress WooCommerce Theme 
 
 <a href="https://rapidmedicalbd.com">www.rapidmedicalbd.com</a>
 
